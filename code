@@ -1,0 +1,5 @@
+n=3; w='db3';
+[c,1]=wavedec(x,n,w);
+thr=35;
+keepapp=1;
+[xd,xcd,1xd,perf0,perf12]=wdencmp('gbl',c,l,w,n,thr,'h',keepapp);
